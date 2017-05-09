@@ -1,6 +1,6 @@
 # SXTopMenu
 easy create topBar like 今日头条
-##效果
+## 效果
 ![轮播图](Untitled.gif "轮播图")
 ![轮播图](Untitled2.gif "轮播图")
 ## 1.import

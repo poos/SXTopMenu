@@ -66,3 +66,5 @@ SXTopMenuView *view = [[SXTopMenuView alloc] initWithFrame:CGRectMake(0, 20, 375
 @property (nonatomic, strong) NSArray <UIView *>*viewArr;
 
 ```
+
+如果有改进建议和问题欢迎留言
